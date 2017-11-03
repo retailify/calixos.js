@@ -1,0 +1,27 @@
+{
+  "name": "calixos.js",
+  "version": "1.0.0",
+  "description": "Calixos maschine.io app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/retailify/calixos.js.git"
+  },
+  "keywords": [
+    "saas",
+    "maschine.io",
+    "Calixos"
+  ],
+  "author": "Thomas Meitz <thme219@gmail.com> (http://github.com/retailify)",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/retailify/calixos.js/issues"
+  },
+  "homepage": "https://github.com/retailify/calixos.js#readme",
+  "dependencies": {
+    "axios": "^0.17.0"
+  }
+}
